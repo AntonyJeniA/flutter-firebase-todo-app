@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "160665272025",
+    "project_id": "taskflow-todo-31a9f",
+    "storage_bucket": "taskflow-todo-31a9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160665272025:android:ef2b1d04eb680daf1348c8",
+        "android_client_info": {
+          "package_name": "com.todoapp.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160665272025-00gi12p7ddk6sjsu73bud7augvvbtdfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.todoapp.todo_app",
+            "certificate_hash": "f2026b78622d3f662169e9093c7d93454c10c2bd"
+          }
+        },
+        {
+          "client_id": "160665272025-nu7hs9j9qd9t00iod1fri4rtl5tbsh0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAScPskgw2l1C63Ifi4IEcP8V9ZN1CvYWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160665272025-nu7hs9j9qd9t00iod1fri4rtl5tbsh0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
